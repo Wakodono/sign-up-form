@@ -1,13 +1,20 @@
 body {
     color: blueviolet;
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: row nowrap;
 }
 
 .hero-img-container {
-    width: 100%;
+    width: 50vw;
+    height: 100vh;
 }
 
 .form-container {
-    width: 100%;
+    width: 50vw;
+    height: 100vh;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
