@@ -1,0 +1,13 @@
+body {
+    color: blueviolet;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.hero-img-container {
+    width: 100%;
+}
+
+.form-container {
+    width: 100%;
+}
