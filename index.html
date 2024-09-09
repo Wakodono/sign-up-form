@@ -8,7 +8,10 @@
 </head>
 <body>
     <div class="hero-img-container">
-        <img class="cathedral" src="./assets/adrian-dascal-UTQyiQJl97o-unsplash.jpg" alt="Cathedral of Saint Vincent de Paul , Tunis, Tunisia">
+        <figure>
+            <img class="cathedral" src="./assets/adrian-dascal-UTQyiQJl97o-unsplash.jpg" alt="Cathedral of Saint Vincent de Paul , Tunis, Tunisia">
+            <figcaption>Photo by <em>Adrian Dascal</em> on Unsplash</figcaption>
+        </figure>
     </div>
 
     <div class="form-container">
@@ -17,37 +20,46 @@
             <p>Sign up <em>now</em> to get started!</p>
         </div>
         <div class="form-section">
-            <div>
-                <label for="first-name">FIRST NAME</label>
-                <input type="text" name="first-name" id="first-name" placeholder="Bob...">
+            <div class="name-container">
+                <div class="first-name">
+                    <label for="first-name">FIRST NAME</label>
+                    <input type="text" name="first-name" id="first-name" placeholder="Bob...">
+                </div>
+                <div class="last-name">
+                    <label for="last-name">LAST NAME</label>
+                    <input type="text" name="last-name" id="last-name" placeholder="Farnsworth...">
+                </div>
             </div>
 
-            <div>
-                <label for="email-address">EMAIL</label>
-                <input type="email" name="email" id="email-address" placeholder="theboulder@email.com...">
+            <div class="contact-details-container">
+                <div class="email">
+                    <label for="email-address">EMAIL</label>
+                    <input type="email" name="email" id="email-address" placeholder="theboulder@email.com...">
+                </div>
+                <div>
+                    <label for="phone-number">PHONE NUMBER</label>
+                    <input type="password" name="phone-number" id="phone-number">
+                </div>
             </div>
 
-            <div>
-                <label for="password">PASSWORD</label>
-                <input type="password" name="pwd" id="password" required>
-            </div>
-
-            <div>
-                <label for="last-name">LAST NAME</label>
-                <input type="text" name="last-name" id="last-name" placeholder="Farnsworth...">
-            </div>
-
-            <div>
-                <label for="phone-number">PHONE NUMBER</label>
-                <input type="password" name="phone-number" id="phone-number">
-            </div>
-
-            <div>
-                <label for="confirm-password">CONFIRM PASSWORD</label>
-                <input type="password" name="confirm-password" id="confirm-password" required>
+            <div class="credentials-container">
+                <div>
+                    <label for="password">PASSWORD</label>
+                    <input type="password" name="pwd" id="password" required>
+                </div>
+                <div>
+                    <label for="confirm-password">CONFIRM PASSWORD</label>
+                    <input type="password" name="confirm-password" id="confirm-password" required>
+                </div>
             </div>
         </div>
-        <div class="submit-section"></div>
+
+        <div class="submit-section">
+            <div>
+                <button>Create Account</button>
+                <p>Already have an account? Log in</p>
+            </div>
+        </div>
     </div>
 </body>
 </html>

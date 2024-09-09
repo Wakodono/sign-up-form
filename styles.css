@@ -10,6 +10,7 @@ body {
 
 .hero-img-container {
     display: flex;
+    flex-flow: row wrap;
     width: 50vw;
     height: 100vh;
 }
@@ -24,14 +25,17 @@ body {
 .description-section,
 .form-section,
 .submit-section {
-    padding-left: 1.5em;
+    padding: 1.5em;
     flex-grow: 1;
+    flex-shrink: 0;
 }
 
 .description-section {
     background: #f3f3f3;
-    height: 28%;
-    width: 100%;
+}
+
+.submit-section {
+    background: #f3f3f3;
 }
 
 img.cathedral {
