@@ -15,7 +15,7 @@ The purpose of this project is to practice and demonstrate the ability to create
 ## Technologies Used
 
 - **HTML5**: For creating the structure of the form.
-- **CSS3**: For styling and layout of the form, including the use of Flexbox for a responsive design.
+- **CSS3**: For styling and layout of the form.
 
 ## Screenshot
 
