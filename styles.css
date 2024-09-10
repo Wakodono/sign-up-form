@@ -9,10 +9,15 @@ body {
 }
 
 .hero-img-container {
-    display: flex;
-    flex-flow: row wrap;
+    position: relative;
     width: 50vw;
     height: 100vh;
+}
+
+.hero-img-container div {
+    display: absolute;
+    bottom: 12px;
+    margin: 0 auto;
 }
 
 .form-container {
@@ -20,6 +25,13 @@ body {
     flex-flow: column wrap;
     width: 50vw;
     height: 100vh;
+}
+
+.name-container,
+.contact-details-container,
+.credentials-container {
+    display: flex;
+    gap: 20px;
 }
 
 .description-section,
@@ -71,4 +83,21 @@ input[type='password']:invalid::after {
     display: block;
     height: 1em;
     width: 1em;
+}
+
+.submit-section button {
+    background: #596D48;
+    border-radius: 11px;
+    width: 50%;
+}
+
+.form-section div {
+    margin-bottom: 12px;
+}
+
+.hero-img-container div {
+    position: absolute;
+    left: 25%;
+    bottom: 31px;
+    color: white;
 }
