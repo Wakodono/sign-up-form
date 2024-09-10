@@ -8,10 +8,8 @@ The purpose of this project is to practice and demonstrate the ability to create
 
 ## Features
 
-- **Responsive Design**: The form adapts to different screen sizes and devices.
 - **Hero Image**: A beautiful background image adds visual appeal to the form.
 - **User-Friendly Input Fields**: Clear labels and placeholders for all input fields to guide the user.
-- **Password Confirmation**: Includes a field to confirm the password for better security.
 - **Basic Form Validation**: Required fields are specified to ensure all necessary information is collected.
 
 ## Technologies Used
