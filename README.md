@@ -40,15 +40,7 @@ To view the form, you can simply open the `index.html` file in any web browser.
 ## Credits
 
 - **Photo Credit**: The hero image was taken by [Adrian Dascal](https://unsplash.com/@adriandasc) and is available on [Unsplash](https://unsplash.com/).
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-If you want to contribute to this project, feel free to submit a pull request or open an issue to suggest improvements.
-
+- 
 ## Acknowledgments
 
 - This project is a part of the curriculum of [The Odin Project](https://www.theodinproject.com/).
