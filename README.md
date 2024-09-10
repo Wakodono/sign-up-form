@@ -1,1 +1,54 @@
-# sign-up-form
+# Sign Up Form Project
+
+This project is a simple and stylish sign-up form built using HTML and CSS. It includes input fields for first name, last name, email, phone number, password, and password confirmation, along with a submission button. The form is designed with a clean and modern layout, featuring an eye-catching hero image.
+
+## Project Overview
+
+The purpose of this project is to practice and demonstrate the ability to create a responsive sign-up form with proper HTML structure, styling, and user interface components. This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
+
+## Features
+
+- **Responsive Design**: The form adapts to different screen sizes and devices.
+- **Hero Image**: A beautiful background image adds visual appeal to the form.
+- **User-Friendly Input Fields**: Clear labels and placeholders for all input fields to guide the user.
+- **Password Confirmation**: Includes a field to confirm the password for better security.
+- **Basic Form Validation**: Required fields are specified to ensure all necessary information is collected.
+
+## Technologies Used
+
+- **HTML5**: For creating the structure of the form.
+- **CSS3**: For styling and layout of the form, including the use of Flexbox for a responsive design.
+
+## Screenshot
+
+![Screenshot of the Sign Up Form](./sign-up-form.png)
+
+## Getting Started
+
+To view the form, you can simply open the `index.html` file in any web browser.
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/signup-form.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd signup-form
+    ```
+3. Open `index.html` in your preferred web browser.
+
+## Credits
+
+- **Photo Credit**: The hero image was taken by [Adrian Dascal](https://unsplash.com/@adriandasc) and is available on [Unsplash](https://unsplash.com/).
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## Contributing
+
+If you want to contribute to this project, feel free to submit a pull request or open an issue to suggest improvements.
+
+## Acknowledgments
+
+- This project is a part of the curriculum of [The Odin Project](https://www.theodinproject.com/).
