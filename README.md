@@ -37,8 +37,8 @@ To view the form, you can simply open the `index.html` file in any web browser.
 
 ## Credits
 
-- **Photo Credit**: The hero image was taken by [Adrian Dascal](https://unsplash.com/@adriandasc) and is available on [Unsplash](https://unsplash.com/).
-- 
+**Photo Credit**: The hero image was taken by [Adrian Dascal](https://unsplash.com/@adriandasc) and is available on [Unsplash](https://unsplash.com/).
+
 ## Acknowledgments
 
-- This project is a part of the curriculum of [The Odin Project](https://www.theodinproject.com/).
+This project is a part of the curriculum of [The Odin Project](https://www.theodinproject.com/).
