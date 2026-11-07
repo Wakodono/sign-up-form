@@ -27,11 +27,11 @@ To view the form, you can simply open the `index.html` file in any web browser.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/signup-form.git
+    git clone https://github.com/Wakodono/sign-up-form.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd signup-form
+    cd sign-up-form
     ```
 3. Open `index.html` in your preferred web browser.
 
